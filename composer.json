@@ -1,0 +1,17 @@
+{
+    "name": "ramcorp/afy-scrapper",
+    "autoload": {
+        "psr-4": {
+            "AfyScrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean Jar Pereira de Araújo",
+            "email": "jean@authorify.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3"
+    }
+}
